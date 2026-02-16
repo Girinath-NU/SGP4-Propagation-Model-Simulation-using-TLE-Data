@@ -4,7 +4,7 @@ This project demonstrates how the accuracy of a satellite orbit prediction degra
 
 We propagate multiple TLEs of different ages using the **SGP4 propagator** and compare their predicted positions against the newest (reference) TLE.
 
-<img src="https://github.com/gnuradio/gnuradio/blob/main/docs/gnuradio.png" width="75%" />
+<img src="[https://github.com/gnuradio/gnuradio/blob/main/docs/gnuradio.png](https://github.com/Girinath-NU/Impact-of-Outdated-Two-Line-Element-Sets-in-SGP4-model-Satellite-Tracking/blob/main/Earth%20View.png)" width="75%" />
 ---
 
 ## 📌 Objective
